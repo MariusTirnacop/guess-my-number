@@ -1,6 +1,6 @@
 # guess-my-number
 
-<p align="center">Small project I made to practice JS called "Guess a number"
+<p align="left">Small project I made to practice JS called "Guess a number"
 
 The correct number is always between 1 and 20.
   
